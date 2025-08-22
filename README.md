@@ -1,4 +1,4 @@
-# CryptoFolio – Excel + VBA Project
+# CryptoFolio | Excel + VBA Project
 
 An Excel-based system with VBA macros for managing client investment portfolios: data analysis, performance tracking, and reporting.
 
