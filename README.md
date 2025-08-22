@@ -1,20 +1,26 @@
 # CryptoFolio – Excel + VBA Project
 
-מערכת לניהול תיקי השקעות ללקוחות: ניתוח נתונים, מעקב ביצועים ודוחות.
+An Excel-based system with VBA macros for managing client investment portfolios: data analysis, performance tracking, and reporting.
 
-## הורדה
+## Download
 [Download Excel file (.xlsm)](https://github.com/estipla05/CryptoFolio---Excel-VBA-project/raw/main/214736456-%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98%20%D7%92%D7%9E%D7%A8%20%D7%90%D7%A1%D7%AA%D7%99%20%D7%A4%D7%9C%D7%98%D7%A0%D7%A8.xlsm)
 
-## שימוש
-1. הורידו את הקובץ ופתחו אותו ב-Excel.
-2. אפשרו מאקרו (VBA) כאשר תתבקשו.
-על מנת להיכנס למערכת הזינו את  הנתונים הבאים:email: estipla05@gmail.con | pass : 2440 .
+## Usage
+1. Download the file and open it in Excel.
+2. Enable macros (VBA) when prompted.
+3. To log in to the system, use the following demo credentials:  
+   **Email:** `estipla05@gmail.con` | **Password:** `2440`
 
-## פיצ'רים
-- ניהול פורטפוליו ללקוחות
-- ניתוח נתונים ו-KPIs
-- דוחות וגרפים
-- אפשרות הרחבה לנתוני קריפטו
+## Features
+- Client portfolio management
+- Data analysis and KPIs
+- Reports and charts
+- Extendable for crypto data
 
-## צילום מסך
+## Interactive Dashboard
 ![Dashboard Screenshot](dashboard.png)
+
+## Notes
+- This repository contains demo data only.  
+- Do not upload or change any data in the form.
+- All the sheets containing the database are intentionally locked.
