@@ -12,9 +12,10 @@ An Excel-based system with VBA macros for managing client investment portfolios:
    **Email:** `estipla05@gmail.con` | **Password:** `2440`
 
 ## Features
-- Client portfolio management
+- Clients management
+- client portfolio management
 - Data analysis and KPIs
-- Reports and charts
+- PDF reports and charts
 - Extendable for crypto data
 
 ## Interactive Dashboard
@@ -22,5 +23,5 @@ An Excel-based system with VBA macros for managing client investment portfolios:
 
 ## Notes
 - This repository contains demo data only.  
-- Do not upload or change any data in the form.
-- All the sheets containing the database are intentionally locked.
+- You can upload or change any data in the form.
+- Refreshing the data before starting to analyze is critical to accurate results.
