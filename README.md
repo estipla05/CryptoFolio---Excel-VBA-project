@@ -24,4 +24,4 @@ An Excel-based system with VBA macros for managing client investment portfolios:
 ## Notes
 - This repository contains demo data only.  
 - You can upload or change any data in the form.
-- Refreshing the data before starting to analyze is critical to accurate results.
+- For an accurate results please use the refresh button in the investments window.
