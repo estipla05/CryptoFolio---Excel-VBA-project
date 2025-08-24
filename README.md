@@ -9,7 +9,7 @@ An Excel-based system with VBA macros for managing client investment portfolios:
 1. Download the file and open it in Excel.
 2. Enable macros (VBA) when prompted.
 3. To log in to the system, use the following demo credentials:  
-   **Email:** `estipla05@gmail.con` | **Password:** `2440`
+   **Email:** `user1@gmail.con` | **Password:** `1234`
 
 ## Features
 - Clients management
