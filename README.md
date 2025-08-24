@@ -19,7 +19,7 @@ An Excel-based system with VBA macros for managing client investment portfolios:
 - Extendable for crypto data
 
 ## Interactive Dashboard
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dash.png)
 
 ## Notes
 - This repository contains demo data only.  
